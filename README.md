@@ -4,16 +4,16 @@ En este repositorio subo el ejercicio 12 de la practica 6.
 # Enunciado
 
 a) Realice un programa que permita generar un índice para acceder por DNI de manera eficiente a
-la información del archivo de texto “personas.csv”. 
+la información del archivo de texto ``personas.csv``. 
 
 Este archivo contiene los datos de una persona
 (identificador, dni, nombre, apellido, correo, ciudad, país y trabajo que desarrolla) en formato CSV.
 
   El índice debe generarse en memoria y estar ordenado por DNI para finalmente almacenarlo en el
-archivo binario “personas.idx”. 
+archivo binario ``personas.idx``. 
 
 Este archivo binario deberá tener por cada línea del archivo
-“personas.csv” una entrada que contenga el DNI de la persona junto con la posición absoluta dentro
+``personas.csv`` una entrada que contenga el DNI de la persona junto con la posición absoluta dentro
 del archivo a los datos asociados a dicho DNI. Diseñe una estructura de datos adecuada para el
 índice y tenga en cuenta al momento de generarlo que la primera línea del archivo CSV es de
 encabezado.
