@@ -46,7 +46,7 @@ donde:
 
 
 # Como ejecutar
-  Ejecutar el ejecutable ``5.12.exe`` ubicado en la raiz, en la terminal de Windows.
+  Ejecutar ``5.12.exe`` ubicado en la raiz, en la terminal de Windows.
 # Como compilar
   En el directorio raiz, ejecutar el comando: 
   ```
